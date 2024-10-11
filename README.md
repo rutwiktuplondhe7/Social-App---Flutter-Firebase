@@ -1,16 +1,11 @@
-# social_media_app
+# Social App - Flutter & Firebase | Post Wall, User Authentication, Dark Mode, and User Directory
 
-A new Flutter project.
+A modern social app built with Flutter and Firebase that allows users to share posts, authenticate, and toggle between dark/light modes.
 
-## Getting Started
+## Key Features:
+- **User Authentication**: Sign-up, sign-in, and log-out functionality with Firebase.
+- **Post Wall**: Users can share and view posts.
+- **Dark/Light Mode**: Toggle between dark and light themes.
+- **User Directory**: View all registered users.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome!
